@@ -38,12 +38,12 @@ npm run serve2 ---服务器环境下预览（不打开浏览器）
 │   ├── webpack.config.base.js  // 基础配置文件
 │   ├── webpack.config.dev.js   // 开发环境配置文件
 │   ├── webpack.config.lint.js  // ESLint
-│   └── webpack.config.prod.js  // 生产环境配置文件，主要用来压缩、合并和抽取js。
+│   └── webpack.config.prod.js  // 生产环境配置文件
 ├── .babelrc
 ├── .eslintignore
 ├── .eslintrc.js
 ├── .gitignore
-├── package.json postcss.config.js
+├── package.json
 ├── postcss.config.js
 └── webpack.config.js
 ```
